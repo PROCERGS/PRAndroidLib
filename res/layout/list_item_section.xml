@@ -15,7 +15,7 @@
         android:id="@+id/list_item_section_text"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:background="#003366"
+        android:background="#666666"
         android:padding="6dp"
         android:shadowColor="#000"
         android:textColor="#fff"

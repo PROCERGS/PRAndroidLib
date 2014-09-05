@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package br.gov.rs.procergs.prandroid;
+package br.gov.rs.procergs.prandroidlib;
 
 public final class R {
     public static final class anim {

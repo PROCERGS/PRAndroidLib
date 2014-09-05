@@ -31,7 +31,7 @@
             android:fadingEdge="horizontal"
             android:singleLine="true"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="#fff" />
+            android:textColor="#666" />
 
         <TextView
             android:id="@+id/list_item_entry_summary"
@@ -42,7 +42,7 @@
             android:divider="#003355"
             android:dividerHeight="0dp"
             android:singleLine="true"
-            android:textColor="#fff" />
+            android:textColor="#666" />
     </RelativeLayout>
 
 </LinearLayout>
